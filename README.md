@@ -1,7 +1,5 @@
 ## Hi there, I'm Zijun Hu 👋🏻
 
-![](https://komarev.com/ghpvc/?username=ishuziii&color=red&style=for-the-badge)
-
 ### About Me
 
 💡 I'm interested in new technologies and developing software.
